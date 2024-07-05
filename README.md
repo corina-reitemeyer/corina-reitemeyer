@@ -1,8 +1,5 @@
 
-# Hi there, I'm Corina! 👋
-
-## 😄 Pronouns
-- She/her
+# Hi there, I'm Corina (she/her)! 👋
 
 ## ℹ️ About me
 I'm a Full Stack Developer & Senior UX/UI Designer, currently based in New Zealand. I enjoy developing software that address and solve real-world problems, focusing on creating intuitive user experiences. My particular interest lies in web accessibility and well-structured design systems. 
