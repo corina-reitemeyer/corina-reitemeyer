@@ -63,5 +63,5 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 
 
 ## Fun fact
-I enjoy Latin dancing and Reformer Pilates outside of coding, and I'm always up for a game of Mariokart or Overcooked (even though I'm terrible at it!).
+I enjoy Latin dancing and Reformer Pilates outside of coding, and I'm a massive fan of cozy games!
 
