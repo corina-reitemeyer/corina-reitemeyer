@@ -34,21 +34,16 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 ### Grow Grub
 - **Description:** A veggie gardeners companion app, that allows New Zealand gardeners to plan and track their 
 - **Tech stack:** HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, RESTfulAPI, Git, Superagent, Express.js, npm, SQLite3 (with Knex.js), Auth0
-- **Repo Link:** Coming soon
+- **Repo Link:** [Grow-grub Repo](https://github.com/corina-reitemeyer/Grow-Grub)
 - **Host Link:** [Grow-grub Web App](https://grow-grub.devacademy.nz/)
 - **Design:** Coming soon
 
 ### Troll Toll Calculator
 - **Description:** A toll calculator that allows bridge trolls to collect tolls under the bridges in Auckland, NZ. The app contains information of favourited and bridges that are being actively patroled, as well as a calculator to collect toll.
 - **Tech stack:** HTML, CSS, JavaScript, React, TypeScript, RESTfulAPI, Git, Superagent, Auth0, Express.js, npm, SQLite3 (with Knex.js)
-- **Repo Link:** Coming soon
+- **Repo Link:** [Troll-Toll-Calculator Repo](https://github.com/corina-reitemeyer/troll-toll-calculator)
 - **Design:** Coming soon
-
-### Pinkflix
-- **Description:** A React app that allows users to filter movies based on their Pink appearance, whether it is the cover, costumes or movie sets.
-- **Tech stack:** HTML, CSS, JavaScript, React, TypeScript, RESTfulAPI, Git, Superagent, Express.js, npm, SQLite3 (with Knex.js)
-- **Repo Link:** Coming soon
-- **Design:** Coming soon
+- 
 
 ------
 
