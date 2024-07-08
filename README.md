@@ -8,13 +8,13 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 ## 🚀 Skills
 - **Languages:** JavaScript, HTML, CSS
 - **Technologies:** React, TypeScript, RESTfulAPI, Git, GitHub, Tailwind CSS, Bulma, Node.js, Vitest (Jest), Supertest, Superagent, Express.js, npm, Skypack, SQLite3 (with Knex.js), Auth0 and Dokku.
-- **Design** UX/UI design, User Research, Figma, User Journey maps, prototyping,
-- **Soft skills** Cross-team collaboration, creative problem-solving, giving/receiving feedback, working in Agile environments, presentation & communication, couragous conversation and conflict resolution,
+- **Design:** UX/UI design, User Research, Figma, User Journey maps, prototyping,
+- **Soft skills:** Cross-team collaboration, creative problem-solving, giving/receiving feedback, working in Agile environments, presentation & communication, couragous conversation and conflict resolution,
 
 
 ## 🌱 I'm currently learning ...
 - **Languages:** Swift and Flutter
-- **Technologies:**: Docker
+- **Technologies:** Docker
   
 
 ## 🔭 I'm currently working on...
@@ -43,7 +43,6 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 - **Tech stack:** HTML, CSS, JavaScript, React, TypeScript, RESTfulAPI, Git, Superagent, Auth0, Express.js, npm, SQLite3 (with Knex.js)
 - **Repo Link:** [Troll-Toll-Calculator Repo](https://github.com/corina-reitemeyer/troll-toll-calculator)
 - **Design:** Coming soon
-- 
 
 ------
 
@@ -54,7 +53,7 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 
 
 ## Connect with me
-- LinkedIn: [Corina Reitemeyer](https://www.linkedin.com/in/corinareitemeyer/)
+- **LinkedIn:** [Corina Reitemeyer](https://www.linkedin.com/in/corinareitemeyer/)
 
 
 ## Fun fact
