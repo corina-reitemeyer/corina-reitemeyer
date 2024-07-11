@@ -35,7 +35,6 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 - **Description:** A veggie gardeners companion app, that allows New Zealand gardeners to plan and track their 
 - **Tech stack:** HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, RESTfulAPI, Git, Superagent, Express.js, npm, SQLite3 (with Knex.js), Auth0
 - **Repo Link:** [Grow-grub Repo](https://github.com/corina-reitemeyer/Grow-Grub)
-- **Host Link:** [Grow-grub Web App](https://grow-grub.devacademy.nz/)
 - **Design:** Coming soon
 
 ### Troll Toll Calculator
