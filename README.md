@@ -32,7 +32,7 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 ## 🛠️ Completed Code Projects
 
 ### Grow Grub
-- **Description:** A veggie gardeners companion app, that allows New Zealand gardeners to plan and track their 
+- **Description:** Grow-Grub is the ultimate companion app for gardening enthusiasts in Aotearoa, who want to grow their own vegetables with ease and success. Whether you're a seasoned gardener or a beginner with a green thumb, Grow-Grub empowers you to plan, track, and manage your vegetable garden effortlessly. 
 - **Tech stack:** HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS, RESTfulAPI, Git, Superagent, Express.js, npm, SQLite3 (with Knex.js), Auth0
 - **Repo Link:** [Grow-grub Repo](https://github.com/corina-reitemeyer/Grow-Grub)
 - **Design:** Coming soon
