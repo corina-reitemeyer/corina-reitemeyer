@@ -13,8 +13,8 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 
 
 ## 🌱 I'm currently learning ...
-- **Languages:** Swift and Flutter
-- **Technologies:** Docker
+- **Languages:** Expanding on React.
+- **Technologies:** Docker, Figma's improved auto layout settings.
   
 
 ## 🔭 I'm currently working on...
