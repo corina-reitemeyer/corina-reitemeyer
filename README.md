@@ -5,6 +5,8 @@
 I'm a Full Stack Developer & Senior UX/UI Designer, currently based in New Zealand. I enjoy developing software that address and solve real-world problems, focusing on creating intuitive user experiences. My particular interest lies in web accessibility and well-structured design systems. 
 Currently exploring opportunities in Full Stack Development and Front-end engineering.
 
+I'm currently learning skills in the Data Analysis field, as I am hoping to combine my creative & technical skills in different ways to solve customer & business problems.
+
 ## 🚀 Skills
 - **Languages:** JavaScript, HTML, CSS
 - **Technologies:** React, TypeScript, RESTfulAPI, Git, GitHub, Tailwind CSS, Bulma, Node.js, Vitest (Jest), Supertest, Superagent, Express.js, npm, Skypack, SQLite3 (with Knex.js), Auth0 and Dokku.
@@ -13,8 +15,8 @@ Currently exploring opportunities in Full Stack Development and Front-end engine
 
 
 ## 🌱 I'm currently learning ...
-- **Languages:** Expanding on React.
-- **Technologies:** Docker, Figma's improved auto layout settings.
+- **Languages:** SQL, Python 
+- **Technologies:** Data Analysis libraries related to SQL/Python (e.g. Panda), Data visualisation tools (e.g. Tableau).
   
 
 ## 🔭 I'm currently working on...
