@@ -22,7 +22,7 @@ I'm currently learning skills in the Data Analysis field, as I am hoping to comb
 
 ### Ritmo - Latin Dance moves library app
 - **Description:** Ritmo helps dance students explore, learn, and track their dance journey with a comprehensive library and progress tracker.
-- **Curent Tech stack:** HTML, CSS, JavaScript, React, TypeScript, RESTfulAPI, Git, Superagent, Express.js, npm, Auth0, SQLite3 (with Knex.js)
+- **Current Tech stack:** HTML, CSS, JavaScript, React, TypeScript, RESTfulAPI, Git, Superagent, Express.js, npm, Auth0, SQLite3 (with Knex.js)
 - **Progress Status:** Work in Progress (Back-end focus)
 - **Repo Link:** [Ritmo App](https://github.com/corina-reitemeyer/dance-personal-project)
 - **Host Link:** Coming soon
@@ -30,7 +30,7 @@ I'm currently learning skills in the Data Analysis field, as I am hoping to comb
 
 ### Dev Roulette - Started 19/08/2024
 - **Description:** The Dev Roulette app aims to help students on putting together a project based on the factors "Theme", "App Type", and "Stretch Goals".
-- **Curent Tech stack:** HTML, CSS, JavaScript, React, TypeScript, [npm Roulette wheel package](https://www.npmjs.com/package/react-custom-roulette).
+- **Current Tech stack:** HTML, CSS, JavaScript, React, TypeScript, [npm Roulette wheel package](https://www.npmjs.com/package/react-custom-roulette).
 - **Progress Status:** Work in Progress (Front-end focus)
 - **Repo Link:** Currently on a Facilitators private repo.
 - **Host Link:** Coming soon
