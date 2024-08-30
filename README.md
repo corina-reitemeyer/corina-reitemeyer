@@ -28,9 +28,23 @@ I'm currently learning skills in the Data Analysis field, as I am hoping to comb
 - **Host Link:** Coming soon
 - **Design:** Coming soon
 
+### Dev Roulette - Started 19/08/2024
+- **Description:** The Dev Roulette app aims to help students on putting together a project based on the factors "Theme", "App Type", and "Stretch Goals".
+- **Curent Tech stack:** HTML, CSS, JavaScript, React, TypeScript, [npm Roulette wheel package](https://www.npmjs.com/package/react-custom-roulette).
+- **Progress Status:** Work in Progress (Front-end focus)
+- **Repo Link:** Currently on a Facilitators private repo.
+- **Host Link:** Coming soon
+- **Design:** Coming soon
+
 ------
 
 ## 🛠️ Completed Code Projects
+
+### Portfolio Website
+- **Description:** A portfolio website, which showcases my recent work from previous design roles and coding projects. Currently a front-end heavy React app, which is using a JSON file containing casestudy data. 
+- **Tech stack:** HTML, CSS, JavaScript, React, TypeScript, Tailwind CSS.
+- **Repo Link:** [Portfolio Website - Repo](https://github.com/corina-reitemeyer/corina-reitemeyer.github.io)
+
 
 ### Grow Grub
 - **Description:** Grow-Grub is the ultimate companion app for gardening enthusiasts in Aotearoa, who want to grow their own vegetables with ease and success. Whether you're a seasoned gardener or a beginner with a green thumb, Grow-Grub empowers you to plan, track, and manage your vegetable garden effortlessly. 
