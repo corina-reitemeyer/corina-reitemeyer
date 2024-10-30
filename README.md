@@ -2,7 +2,7 @@
 # Hi there, I'm Corina (she/her)! 👋
 
 ## ℹ️ About me
-I'm a Data Analyst with a background as a UX/UI Designer and Full Stack Developer, currently based in New Zealand. I’m passionate about transforming data into actionable insights that drive better business decisions, solve real-world problems, and enhance user experiences. As a data storyteller, I focus on leveraging data visualization and analytical techniques to present complex information in an engaging and understandable way. I’m excited about using data to reveal insights that can deepen our understanding of complex issues and drive meaningful change.
+I'm a Senior UX/UI Designer, with skills in Data Analytics and Full Stack Development, currently based in New Zealand. I’m passionate about transforming data into actionable insights that drive better business decisions, solve real-world problems, and enhance user experiences. As a data storyteller, I focus on leveraging data visualization and analytical techniques to present complex information in an engaging and understandable way. I’m excited about using data to reveal insights that can deepen our understanding of complex issues and drive meaningful change.
 
 With a strong foundation in web accessibility and user research, I bring a unique perspective to data analysis, ensuring that insights are not only impactful but also user-friendly for everyone. I'm continually expanding my skills in data analysis methodologies and tools, eager to combine my creative and technical expertise to tackle complex business challenges and tell compelling stories with data.
 
@@ -25,14 +25,6 @@ With a strong foundation in web accessibility and user research, I bring a uniqu
 - **Current Tech stack:** HTML, CSS, JavaScript, React, TypeScript, RESTfulAPI, Git, Superagent, Express.js, npm, Auth0, SQLite3 (with Knex.js)
 - **Progress Status:** Work in Progress (Back-end focus)
 - **Repo Link:** [Ritmo App](https://github.com/corina-reitemeyer/dance-personal-project)
-- **Host Link:** Coming soon
-- **Design:** Coming soon
-
-### Dev Roulette - Started 19/08/2024
-- **Description:** The Dev Roulette app aims to help students on putting together a project based on the factors "Theme", "App Type", and "Stretch Goals".
-- **Current Tech stack:** HTML, CSS, JavaScript, React, TypeScript, [npm Roulette wheel package](https://www.npmjs.com/package/react-custom-roulette).
-- **Progress Status:** Work in Progress (Front-end focus)
-- **Repo Link:** Currently on a Facilitators private repo.
 - **Host Link:** Coming soon
 - **Design:** Coming soon
 
@@ -61,7 +53,7 @@ With a strong foundation in web accessibility and user research, I bring a uniqu
 
 
 ## 🎓 Education
-- **Google Career Certificate** in Data Analytics, October 2024
+- **Google Professional Career Certificate** in Data Analytics from Coursera, October 2024
 - **New Zealand Certificate (Level 6)** in Applied Software Development from Dev Academy Aotearoa, 2024
 - **Bachelor of Design (First Class Honours)** in Visual Communication Design from Massey University, 2018
 
