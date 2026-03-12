@@ -26,7 +26,6 @@ Agile Product Delivery · Cross-functional Collaboration · Design–Engineering
 **Ritmo — Latin Dance Moves Library App**
 A app for dance students to explore, learn, and track their dance journey.
 Built in React and TypeScript. Design in progress.
-→ [Repo](link) · Design coming soon
 
 ---
 
