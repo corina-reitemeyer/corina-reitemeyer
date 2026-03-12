@@ -4,7 +4,7 @@ Senior Product Designer with a frontend development background, based in Melbour
 
 I specialise in design systems, accessibility, and interaction design — with a strong focus on delivery. I make complex, hard-to-navigate products feel simple and shippable. A technical background means I understand how things get built, not just how they should look.
 
-8+ years across government, education, and B2B SaaS. Currently open to senior product design contracts in Melbourne.
+8+ years across government, education, and B2B SaaS. Currently open to design contracts locally in Melbourne, and remote 🌏.
 
 ---
 
