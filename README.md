@@ -66,7 +66,7 @@ Agent-ready design systems
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/corinareitemeyer/)
-
+[Medium](https://medium.com/@corina_rei)
 ---
 
 *Fun fact: Recovering salsa instructor 💃 • Curious learner • Usually halfway through a side project.*
