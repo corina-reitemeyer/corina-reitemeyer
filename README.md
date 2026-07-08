@@ -66,6 +66,7 @@ Agent-ready design systems
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/corinareitemeyer/)
+
 [Medium](https://medium.com/@corina_rei)
 ---
 
