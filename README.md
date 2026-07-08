@@ -1,37 +1,57 @@
 ## Hi, I'm Corina 👋
 
-Senior Product Designer with a frontend development background, based in Melbourne.
+Senior Product Designer & Learning Designer based in Melbourne, Australia.
 
-I specialise in design systems, accessibility, and interaction design — with a strong focus on delivery. I make complex, hard-to-navigate products feel simple and shippable. A technical background means I understand how things get built, not just how they should look.
+I enjoy turning ideas into things people can actually use. My work sits at the intersection of design systems, accessibility and AI-assisted workflows, using design craft and modern AI tools to prototype, build and refine digital products. My background in full-stack development means I'm comfortable venturing into front-end when it helps move a project forward, but design is where I do my best work.
 
-8+ years across government, education, and B2B SaaS. Currently open to design contracts locally in Melbourne, and remote 🌏.
-
----
-
-## 🚀 Skills
-
-**Design**
-UX/UI Design · Design Systems · Interaction Design · Accessibility (WCAG 2.2) · Figma (incl. Dev Mode) · Prototyping · Wireframing · User Journey Mapping · Information Architecture · Design Tokens · Component Libraries
-
-**Frontend**
-HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · Git · GitHub · npm
-
-**Ways of Working**
-Agile Product Delivery · Cross-functional Collaboration · Design–Engineering Collaboration · Feedback & Critique · Stakeholder Communication
+Currently available for contract opportunities in Melbourne and remotely. 🌏.
 
 ---
 
 ## 🔭 Currently working on
 
-**Ritmo — Latin Dance Moves Library App**
-A app for dance students to explore, learn, and track their dance journey.
-Built in React and TypeScript. Design in progress.
+**♿ Accessible Design System**
+Exploring how AI-assisted workflows can support the design and implementation of accessible component libraries—from Figma to Storybook.
+
+**💃 Ritmo**
+A dance library app that helps students organise, review and practise Latin dance moves while experimenting with modern product and AI workflows.
+
+**🎓 eLearning**
+Exploring how AI can support the creation of accessible digital learning experiences using Rise, Storyline and ElevenLabs.
 
 ---
+## 🚀 Skills
+
+**Design**
+Figma (Dev Mode, Make & MCP)
+Design Systems
+Accessibility (WCAG 2.2)
+Information Architecture
+Interaction Design
+Wireframing & Prototyping
+
+**AI Workflows**
+Claude
+ChatGPT
+Figma Make
+Claude Code
+Cursor (if you end up using it)
+MCP workflows
+
+**Front-end**
+HTML
+CSS
+TypeScript
+React
+Tailwind CSS
+Storybook (currently learning)
+Git & GitHub
 
 ## 🌱 Currently learning
-
-Deepening accessibility practice with a focus on WCAG 2.2 auditing.
+Building accessible component libraries
+Storybook & design engineering
+AI-assisted product workflows
+Agent-ready design systems
 
 ---
 
@@ -49,4 +69,4 @@ Deepening accessibility practice with a focus on WCAG 2.2 auditing.
 
 ---
 
-*Fun fact: Recovering salsa instructor, keen photographer, and someone who will absolutely go down a rabbit hole if the problem is interesting enough 💃*
+*Fun fact: Recovering salsa instructor 💃 • Curious learner • Usually halfway through a side project.*
