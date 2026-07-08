@@ -20,38 +20,39 @@ A dance library app that helps students organise, review and practise Latin danc
 Exploring how AI can support the creation of accessible digital learning experiences using Rise, Storyline and ElevenLabs.
 
 ---
-## 🚀 Skills
+## 🛠 Tech & Tools
 
 **Design**
 Figma (Dev Mode, Make & MCP)
-Design Systems
-Accessibility (WCAG 2.2)
-Information Architecture
-Interaction Design
-Wireframing & Prototyping
+• Design Systems
+• Accessibility (WCAG 2.2)
+• Information Architecture
+• Interaction Design
+• Wireframing & Prototyping
 
 **AI Workflows**
 Claude
-ChatGPT
-Figma Make
-Claude Code
-Cursor (if you end up using it)
-MCP workflows
+• ChatGPT
+• Figma Make
+• Claude Code
+• Cursor
+• MCP workflows
+• Lovable
 
 **Front-end**
 HTML
-CSS
-TypeScript
-React
-Tailwind CSS
-Storybook (currently learning)
-Git & GitHub
+• CSS
+• TypeScript
+• React
+• Tailwind CSS
+• Storybook
+• Git & GitHub
 
 ## 🌱 Currently learning
 Building accessible component libraries
-Storybook & design engineering
-AI-assisted product workflows
-Agent-ready design systems
+• Storybook & design engineering
+• AI-assisted product workflows
+• Agent-ready design systems
 
 ---
 
